@@ -1,0 +1,66 @@
+{
+    "eyes": {
+        "tooltip": "eyes",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/eyes.png"
+    },
+    "skull": {
+        "tooltip": "skull",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/skull.png"
+    },
+    "nu": {
+        "tooltip": "nu",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/nu.png"
+    },
+    "skulls": {
+        "tooltip": "skulls",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/skulls.png"
+    },
+    "sonic": {
+        "tooltip": "sonic",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/sonic.png"
+    },
+    "devil": {
+        "tooltip": "devil",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/devil.png"
+    },
+    "tired": {
+        "tooltip": "tired",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/tired.png"
+    },
+    "opal": {
+        "tooltip": "opal",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/opal.png"
+    },
+    "kiss": {
+        "tooltip": "kiss",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/kiss.png"
+    },
+    "rose": {
+        "tooltip": "rose",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/rose.png"
+    },
+    "nude": {
+        "tooltip": "nude",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/nude.png"
+    },
+    "mixi": {
+        "tooltip": "rabbit",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/rabbit.png"
+    },
+    "what": {
+        "tooltip": "what",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/what.png"
+    },
+    "killer": {
+        "tooltip": "killer",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/killer.png"
+    },
+    "nu": {
+        "tooltip": "nu",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/nu.png"
+    },
+    "bye": {
+        "tooltip": "bye",
+        "badge_url": "https://raw.githubusercontent.com/Nuncord/Nunbadge/main/bye.png"
+    }
+}
